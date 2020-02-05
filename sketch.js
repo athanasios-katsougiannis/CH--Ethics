@@ -20,7 +20,7 @@ var letters = [];
 var density = 2.5;
 var ribbonWidth = 92;
 var shapeColor;
-var fontSize = 800;
+var fontSize = 400;
 var pathSimplification = 0;
 var pathSampleFactor = 0.1;
 
