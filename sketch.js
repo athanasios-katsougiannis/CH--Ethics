@@ -1,26 +1,11 @@
-// P_3_2_4_01
-//
-/**
- * MOUSE
- * position x          : path simplification
- * position y          : ribbon width
- *
- * KEYS
- * arrow right         : increase path density
- * arrow left          : decrease path density
- * arrow up            : increase font size
- * arrow down          : decrease font size
- * control             : save png
- *
- *
- */
+
 'use strict';
 
 var letters = [];
 var density = 2.5;
 var ribbonWidth = 92;
 var shapeColor;
-var fontSize = 800;
+var fontSize = 400;
 var pathSimplification = 0;
 var pathSampleFactor = 0.1;
 
