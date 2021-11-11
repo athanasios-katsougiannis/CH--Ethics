@@ -1,3 +1,3 @@
 # CH-Ethics
 
-https://thanasis-katsougiannis.github.io/CH--Ethics/
+https://athanasios-katsougiannis.github.io/CH--Ethics/
